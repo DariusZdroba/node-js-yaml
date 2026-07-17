@@ -1,0 +1,14 @@
+{
+  "name": "breakability-npm-js-yaml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample service that loads and re-serializes YAML configuration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "js-yaml": "3.14.1"
+  }
+}
