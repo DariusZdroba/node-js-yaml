@@ -9,7 +9,10 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^5.0.0",
     "js-yaml": "3.14.1"
+  },
+  "overrides": {
+    "cookie": "1.0.0"
   }
 }
